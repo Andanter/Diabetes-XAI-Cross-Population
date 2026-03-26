@@ -1,0 +1,37 @@
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+
+# Jupter
+.ipynb_checkpoints/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+#Virtual environments
+venv/
+.venv/
+env/
+
+#Data folders
+data/raw/*
+data/preocessed/*
+
+# Keep folder structure
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Model files
+*.pkl
+*.joblib
+
+#Output folders
+outputs/models/*
+outputs/figures/*.tmp
+outputs/tables/*.tmp
+
+#Logs
+*.log
