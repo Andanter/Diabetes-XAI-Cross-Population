@@ -1,0 +1,8 @@
+Concept,BRFSS,Uganda,GEDA,Final coding
+Diabetes outcome,DIABETE3,b5/b6,KHdiabB12,"1 =diabetes, 0 = no diabetes"
+Age,_AGE80,age,age10B,numeric or grouped age
+Sex,SEX,sex,sex,"1=male, 0=female"
+BMI,_BMI5,derived fro m11 and m12,PAbmiB_k2,continuous in BRFSS/Uganda; grouped in GEDA
+Hypertension,BPHIGH4,derived from m4-m7,KHhyp12,"1=yes, 0=no"
+Current smoking,_RFSMOK3,t1,RCstatE_k3,"1=yes, 0=no"
+Physical activity,_TOTINDA,derived from p-variables,KAehispaq6,"1=active, 0=inactive"
