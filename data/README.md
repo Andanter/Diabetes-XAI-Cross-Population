@@ -13,3 +13,8 @@ Place the original raw dataset files in:
 Place cleaned or harmonized files in: 
 
 - 'processed/'
+
+
+**Data access note**
+
+Because some datasets used in the project were obtained through approval-based access, researchers who want to reproduce the analysis should obtain the datasets directly from official providers before running the notebooks. 
